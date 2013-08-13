@@ -1,4 +1,7 @@
-<center>
+<table align=center>
+ <tr>
+  <td><img src="images/chicken.png" align=left></td>
+  <td>
 <?php
 include "../config.php";
 $ip=$_SERVER['REMOTE_ADDR'];
@@ -10,4 +13,6 @@ echo <<<EOF
 <a href="$proto$site6">IPv6 Only</a>
 EOF;
 ?>
-</center>
+</td>
+</tr>
+</table>
