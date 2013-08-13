@@ -5,7 +5,7 @@
 <?php
 include "../config.php";
 $ip=$_SERVER['REMOTE_ADDR'];
-echo "Your IP address is: " . $ip;
+echo "Your IP address is<br>\n" . $ip;
 echo <<<EOF
 <hr width=95% noshade>
 <a href="$proto$site4">IPv4 Only</a> - 
