@@ -15,5 +15,5 @@ cd /var/www
 git clone https://github.com/tbaschak/ipfowl.git
 ```
 
-Setup a vhost in the webserver of your choice (Apache, NGINX, etc) under the root of the domain. Make sure that PHP scripts are executed.
+Setup a vhost in the webserver of your choice (Apache, NGINX, etc) under the root of the domain. Edit the config.php file to fit your site. Make sure that PHP scripts are executed.
 
