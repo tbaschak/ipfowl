@@ -1,3 +1,4 @@
+<center>
 <?php
 include "../config.php";
 $ip=$_SERVER['REMOTE_ADDR'];
@@ -9,3 +10,4 @@ echo <<<EOF
 <a href="$site6">IPv6 Only</a>
 EOF;
 ?>
+</center>
