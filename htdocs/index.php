@@ -39,7 +39,7 @@ i<html lang="en">
     <div class="container">
     
       <div class="featurette">
-        <img class="featurette-image pull-left" src="assets/img/chicken.png">
+        <img class="featurette-image pull-right" src="assets/img/chicken.png">
         <h2 class="featurette-heading">Your IP address is: <span class="muted"><?php echo $ip; ?></span></h2>
         <p class="lead"><?php echo <<<EOF
 <a href="$proto$site4">IPv4 Only</a> - 
