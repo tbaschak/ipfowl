@@ -40,8 +40,7 @@ i<html lang="en">
     
       <div class="featurette">
         <img class="featurette-image pull-left" src="assets/img/chicken.png">
-        <h2 class="featurette-heading">Your IP address <span class="muted">is: </span></h2>
-        <p class="lead"><?php echo $ip; ?></p>
+        <h2 class="featurette-heading">Your IP address is: <span class="muted"><?php echo $ip; ?></span></h2>
         <p class="lead"><?php echo <<<EOF
 <a href="$proto$site4">IPv4 Only</a> - 
 <a href="$proto$site">IPv4/IPv6</a> -
