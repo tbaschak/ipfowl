@@ -44,7 +44,6 @@ i<html lang="en">
         <h2 class="featurette-heading">Your IP address <span class="muted">is: </span></h2>
         <p class="lead"><?php echo $ip; ?></p>
         <p class="lead"><?php echo <<<EOF
-<hr width=95% noshade>
 <a href="$proto$site4">IPv4 Only</a> - 
 <a href="$proto$site">IPv4/IPv6</a> -
 <a href="$proto$site6">IPv6 Only</a>
