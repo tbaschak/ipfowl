@@ -38,7 +38,6 @@ i<html lang="en">
 
     <div class="container">
     
-      <hr class="featurette-divider">
       <div class="featurette">
         <img class="featurette-image pull-left" src="assets/img/chicken.png">
         <h2 class="featurette-heading">Your IP address <span class="muted">is: </span></h2>
