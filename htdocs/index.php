@@ -36,7 +36,7 @@ i<html lang="en">
   "https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"
   alt="Fork me on GitHub"></a>
 
-    <div class="container-narrow">
+    <div class="container">
     
       <hr class="featurette-divider">
       <div class="featurette">
