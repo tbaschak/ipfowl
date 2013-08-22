@@ -3,7 +3,7 @@ include "../config.php";
 $ip=$_SERVER['REMOTE_ADDR'];
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-i<html lang="en">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <title>ip.Henchman21.net</title>
